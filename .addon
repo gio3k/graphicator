@@ -1,0 +1,16 @@
+{
+  "Title": "Graphicator",
+  "Type": "addon",
+  "Org": "local",
+  "Ident": "graphicator",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Metadata": {}
+}
